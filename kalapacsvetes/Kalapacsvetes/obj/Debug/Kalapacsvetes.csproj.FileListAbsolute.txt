@@ -1,0 +1,6 @@
+Z:\13\Frontend\kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe.config
+Z:\13\Frontend\kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe
+Z:\13\Frontend\kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.pdb
+Z:\13\Frontend\kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.csprojAssemblyReference.cache
+Z:\13\Frontend\kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.exe
+Z:\13\Frontend\kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.pdb
