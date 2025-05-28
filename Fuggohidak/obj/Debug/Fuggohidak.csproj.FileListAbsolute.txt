@@ -1,9 +1,0 @@
-Z:\vizsga\Fuggohidak\bin\Debug\Fuggohidak.exe.config
-Z:\vizsga\Fuggohidak\bin\Debug\Fuggohidak.exe
-Z:\vizsga\Fuggohidak\bin\Debug\Fuggohidak.pdb
-Z:\vizsga\Fuggohidak\obj\Debug\Fuggohidak.csprojAssemblyReference.cache
-Z:\vizsga\Fuggohidak\obj\Debug\Fuggohidak.Form1.resources
-Z:\vizsga\Fuggohidak\obj\Debug\Fuggohidak.Properties.Resources.resources
-Z:\vizsga\Fuggohidak\obj\Debug\Fuggohidak.csproj.GenerateResource.cache
-Z:\vizsga\Fuggohidak\obj\Debug\Fuggohidak.exe
-Z:\vizsga\Fuggohidak\obj\Debug\Fuggohidak.pdb
